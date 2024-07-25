@@ -1,0 +1,10 @@
+.venv/
+.idea/
+.stuff/
+.git/
+.github/
+*.log
+/json_logs
+**/__pycache__/
+.env
+*.json

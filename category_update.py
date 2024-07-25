@@ -210,4 +210,3 @@ class Category:
         self.save_categories_to_json()
         firebase_categories = self.fetch_firebase_categories()
         self.log_firebase_categories(firebase_categories)
-
